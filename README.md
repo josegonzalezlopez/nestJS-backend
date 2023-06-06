@@ -15,6 +15,7 @@ $ npm install
  $ npm i class-validator class-transformer
  $ npm i bcryptjs => to encrypt user password
  $ npm i --save-dev @types/bcryptjs
+ $ npm install --save @nestjs/jwt
 ``` 
 
 ## Running the app
